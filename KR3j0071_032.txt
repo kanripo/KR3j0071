@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 藝林彙考
-#+DATE: 2019-03-29 21:33:31.283539
+#+DATE: 2019-03-29 21:33:31.652441
 #+PROPERTY: ID KR3j0071
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 32
 <pb:KR3j0071_WYG_032-1a>¶
 　　欽定四庫全書¶
@@ -46,7 +46,7 @@
 别安得以同窻釋同寮乎(寀采俱音菜)¶
 ¶
 　　賓退録今人稱縣令爲明府始於唐人漢人則謂之明¶
-廷見范&KR0110;書張儉𫝊明府以稱太守如老叟稱劉寵劉¶
+廷見范曄書張儉𫝊明府以稱太守如老叟稱劉寵劉¶
 翊稱种&KR3113;高獲稱鮑昱皆然又龔遂𫝊王生曰明府且¶
 止願有所白張湛𫝊主簿進曰明府位尊徳重不宜自¶
 <pb:KR3j0071_WYG_032-3a>¶

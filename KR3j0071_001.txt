@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 藝林彙考
-#+DATE: 2019-03-29 21:33:31.057020
+#+DATE: 2019-03-29 21:33:31.403981
 #+PROPERTY: ID KR3j0071
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 1
 <pb:KR3j0071_WYG_001-1a>¶
 　　欽定四庫全書¶
@@ -451,7 +451,7 @@
 <pb:KR3j0071_WYG_001-22b>¶
 都賦云抗神龍之華殿施榮楯而捷獵是也赤烏殿在¶
 縣東北五里吳昭明宫内制度上應星宿吳都賦云崇¶
-臨海之崔嵬飾赤烏之暐&KR0110;是也¶
+臨海之崔嵬飾赤烏之暐曄是也¶
 ¶
 　　三餘帖唐太宗養一白鶻號曰將軍取鳥長驅至殿前¶
 然後擊殺故名落雁殿¶

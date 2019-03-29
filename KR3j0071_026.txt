@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 藝林彙考
-#+DATE: 2019-03-29 21:33:31.232990
+#+DATE: 2019-03-29 21:33:31.613695
 #+PROPERTY: ID KR3j0071
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 26
 <pb:KR3j0071_WYG_026-1a>¶
 　　欽定四庫全書¶
@@ -316,7 +316,7 @@
 ¶
 　　彈雅桑落索郎並是名酒一是酒法一是方言以其南¶
 北轉渾强合一名耳因戲題云桑落攜名酒行人唤索¶
-郎何如𢬵一醉顛倒著衣裳¶
+郎何如拚一醉顛倒著衣裳¶
 ¶
 <pb:KR3j0071_WYG_026-15b>¶
 　　余氏辨林魏書王悅以桑落酒飲元乂世說庾信詩蒲¶

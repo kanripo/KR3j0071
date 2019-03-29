@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 藝林彙考
-#+DATE: 2019-03-29 21:33:31.207756
+#+DATE: 2019-03-29 21:33:31.590210
 #+PROPERTY: ID KR3j0071
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 22
 <pb:KR3j0071_WYG_022-1a>¶
 　　欽定四庫全書¶
@@ -234,7 +234,7 @@
 　　譻&KR1585;唐以前言餹乃是糟耳故字從食或從米所謂唐¶
 人喜甜酒正不逺于餹也蔗霜宋始大著¶
 ¶
-　　學齋佔&KR1462;老學菴筆記其中一條云聞人茂徳博學士¶
+　　學齋佔俾老學菴筆記其中一條云聞人茂徳博學士¶
 <pb:KR3j0071_WYG_022-12a>¶
 也言沙糖中國本無唐太宗時外國貢至問其使人此¶
 何物云以甘蔗汁煎用其法煎成與外國者等自此中¶
